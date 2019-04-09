@@ -17,7 +17,7 @@ Step 3) type 'node index.js'
 
 
 
------- CODE START -------
+```javascript
 
 
 var config = {};
@@ -28,4 +28,4 @@ config.password = '<five9_password>'
 
 module.exports = config;
 
------- CODE END -------
+```
