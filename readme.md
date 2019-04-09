@@ -5,8 +5,17 @@ This currently demonstrates getting a list of Skills but could easily be updated
 To run the app:
 
 Step 1) Install node, clode repo and type 'npm install'
+
 Step 2) Make config.js file as shown below
+
 Step 3) type 'node index.js'
+
+
+
+
+
+
+
 
 ------ CODE START -------
 
